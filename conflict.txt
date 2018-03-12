@@ -1,1 +1,2 @@
 here is some text
+this is the 2nd conflict file ... wonder what will happen when we merge?
